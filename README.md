@@ -6,21 +6,6 @@
 >
 > #### Visit site to Check live demo [_here_](https://dev-jobs-job-search-website.vercel.app/).
 
----
-
-# Table of Contents
-
-- [Description](#description)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Setup](#setup)
-- [How To Use](#how-to-use)
-- [Project Status](#project-status)
-- [License](#license)
-- [Author](#author)
-
----
 
 # Description
 
