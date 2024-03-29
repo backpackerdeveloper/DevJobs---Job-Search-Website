@@ -80,7 +80,7 @@ $ git clone https://github.com/backpackerdeveloper/DevJobs---Job-Search-Website.
 
 ## Go into the repository
 
-$ cd ./devjobs
+$ cd ./DevJobs---Job-Search-Website
 
 ## Install dependencies
 
