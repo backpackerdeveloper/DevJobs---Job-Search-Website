@@ -4,7 +4,7 @@
 
 > A job board for developers showing job vacancies to job seekers. Users can search and apply for new job opportunities in their area and profession.
 >
-> #### Visit site to Check live demo [_here_](https://amali-devjobs.netlify.app/).
+> #### Visit site to Check live demo [_here_](https://dev-jobs-job-search-website.vercel.app/).
 
 ---
 
@@ -176,28 +176,3 @@ const certainCategoryData = fetch(
   `https://server-devjobs.onrender.com/category/${categoryName}`
 );
 ```
-
-[Back To The Top](#devjobs-web-app)
-
----
-
-# Project Status
-
-Project is: completed
-
----
-
-# License
-
-MIT License
-
-Copyright (c) [2023] AmaliTech
-
----
-
-# Author
-
-- LinkedIn - [Osman Nasirdeen](https://www.linkedin.com/in/osman-nasirdeen/)
-- Github - [OsmanNasirdeen](https://github.com/OsmanNasirdeen)
-
-[Back To The Top](#devjobs-web-app)
