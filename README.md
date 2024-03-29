@@ -76,7 +76,7 @@ To clone and run this application, you'll need to first have Git and Node.js (np
 
 ## Clone this repository
 
-$ git clone https://github.com/OsmanNasirdeen/Devjobs
+$ git clone https://github.com/backpackerdeveloper/DevJobs---Job-Search-Website.git
 
 ## Go into the repository
 
@@ -119,11 +119,6 @@ The server is built using the following technologies:
 - express
 - json data
 
-`To learn more about the server`:
-[Visit Server Github Repo](https://github.com/OsmanNasirdeen/devjobs-server)
-
-[Back To The Top](#devjobs-web-app)
-
 ## API Reference
 
 ```javascript
@@ -140,24 +135,3 @@ const certainCategoryData = fetch(
 );
 ```
 
-### API Demo
-
----
-
-#### ` (1) This will return an array of all data whose location is Ghana from The server`;
-
-```javascript
-const locationName = "Ghana";
-const specificLocationData = fetch(
-  `https://server-devjobs.onrender.com/locations/${locationName}`
-);
-```
-
-#### (2) `This will return an array of all data whose position name contains the keyword "software engineer" from The sever`
-
-```javascript
-const categoryName = "software engineer";
-const certainCategoryData = fetch(
-  `https://server-devjobs.onrender.com/category/${categoryName}`
-);
-```
